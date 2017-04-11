@@ -1,0 +1,36 @@
+[33mcommit ed7355cfef3e05624bdc42a5d46acca5fa1f571a[m
+Merge: 3e7cd1b 3f6f583
+Author: estebanadell <esteban.adell@itc.uji.es>
+Date:   Mon Apr 10 18:43:00 2017 +0200
+
+    Merge branch 'uevo-camino'
+
+[33mcommit 3e7cd1bfb9201e354eb94e9222a594aefc8a54e6[m
+Author: estebanadell <esteban.adell@itc.uji.es>
+Date:   Mon Apr 10 18:39:55 2017 +0200
+
+    nuevo texto texto2
+    
+    werwerwer
+
+[33mcommit 3f6f583bd53836aabc0b21460ffd39f1ed02288c[m
+Author: estebanadell <esteban.adell@itc.uji.es>
+Date:   Mon Apr 10 18:33:06 2017 +0200
+
+    aaaaaa
+    
+    aaa
+
+[33mcommit df1879140db63975820ab04514c94e4ef171493d[m
+Author: estebanadell <esteban.adell@itc.uji.es>
+Date:   Mon Apr 10 17:08:12 2017 +0200
+
+    vamos ok
+    
+    fasdfsdfd
+
+[33mcommit b869b456fb47a8517545b490de6ca98685aa7ca7[m
+Author: estebanadell <esteban.adell@itc.uji.es>
+Date:   Mon Apr 10 16:09:46 2017 +0200
+
+    :tada: Added .gitattributes & .gitignore files
